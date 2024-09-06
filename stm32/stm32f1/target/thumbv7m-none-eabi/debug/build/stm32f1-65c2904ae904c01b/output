@@ -1,0 +1,3 @@
+cargo:rustc-link-search=/home/tao/Desktop/Rust-on-Embedded/stm32/stm32f1/target/thumbv7m-none-eabi/debug/build/stm32f1-65c2904ae904c01b/out
+cargo:rerun-if-changed=src/stm32f103/device.x
+cargo:rerun-if-changed=build.rs
