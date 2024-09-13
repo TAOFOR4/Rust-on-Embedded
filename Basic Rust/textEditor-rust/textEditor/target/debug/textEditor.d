@@ -1,0 +1,1 @@
+/home/tao/Desktop/Rust-on-Embedded/Basic\ Rust/textEditor-rust/textEditor/target/debug/textEditor: /home/tao/Desktop/Rust-on-Embedded/Basic\ Rust/textEditor-rust/textEditor/src/editor/terminal.rs /home/tao/Desktop/Rust-on-Embedded/Basic\ Rust/textEditor-rust/textEditor/src/editor.rs /home/tao/Desktop/Rust-on-Embedded/Basic\ Rust/textEditor-rust/textEditor/src/main.rs
